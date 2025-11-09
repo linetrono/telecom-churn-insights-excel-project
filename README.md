@@ -28,11 +28,10 @@ The dataset includes customer demographic information, contract details, usage m
   
 ## Files
 [Dashboard View](Telcom_Dashboard.png)
+
 [Download The Full Excel Analysis](Telcom_Churn_Insights_Project.xlsx)
 
 ## Tools
-- Microsoft Excel (with formulas, charts, and pivot tables)  
+- Microsoft Excel (with formulas, charts, slicers and pivot tables)  
   
 
-## License
-This repository is for educational and portfolio purposes. Data is anonymized and used for demonstration only.
