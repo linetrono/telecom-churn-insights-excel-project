@@ -4,7 +4,7 @@
 This project analyzes telco customer data using Excel to identify drivers of churn and provide actionable insights for retention strategies. 
 The analysis focuses on contract types, payment methods, fiber customers, and early lifecycle engagement.
 
-## Dataset
+## Dataset Source
 The dataset used for this project is the **IBM Telco Customer Churn dataset** from Kaggle. It contains demographic, account, and usage information for telecom customers, along with churn labels.
 
 - **Source:** Kaggle – [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
@@ -94,15 +94,30 @@ Pivot tables, charts, and slicers (e.g., Gender, SeniorStatus) were then used to
 - **Fiber Customers:** Investigate satisfaction drivers and address complaints to improve retention.  
 - **Tenure Building:** Implement early-life cycle engagement initiatives during the first few months to reduce early churn.
 
-  
 ## Files
 [Dashboard Image View](Telco_Dashboard.png)
 
-[Dashboard Video View](Telco_Churn_Clip.mp4)
+[Dashboard Video View](Telco_Churn_Clip.gif)
 
-[Download The Full Excel Analysis](Telcom_Churn_Insights_Project.xlsx)
+[Download The Full Excel Analysis](Telco_Churn_Insights_Project.xlsx)
 
 ## Tools
-- Microsoft Excel (with formulas, charts, slicers and pivot tables)  
+- Microsoft Excel (with formulas, charts, slicers and pivot tables)
+
+## Topics / Tags
+#excel #powerbi #dataanalysis #telecom #customerchurn #dashboard #analytics #kpi
+
+## Contact
+If you would like to connect or have questions about this analysis, reach out:
+
+- LinkedIn: https://www.linkedin.com/in/linet-rono-b32130277/
+- Email: mukamihrono@gmail.com
+
+## Reuse
+This project is open for learning purposes —  
+you are welcome to reference, adapt or build on this work in your own projects.
+
+Please credit or reference this repository if you use any parts of it.
+
   
 
