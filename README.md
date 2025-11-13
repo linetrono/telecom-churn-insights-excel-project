@@ -95,7 +95,7 @@ Pivot tables, charts, and slicers (e.g., Gender, SeniorStatus) were then used to
 - **Tenure Building:** Implement early-life cycle engagement initiatives during the first few months to reduce early churn.
 
 ## Files
-[Dashboard Image View](Telco_Dashboard.png)
+[Dashboard Image View](Telco_Churn_Dashboard.png)
 
 [Dashboard Video View](Telco_Churn_Clip.gif)
 
@@ -110,8 +110,8 @@ Pivot tables, charts, and slicers (e.g., Gender, SeniorStatus) were then used to
 ## Contact
 If you would like to connect or have questions about this analysis, reach out:
 
-- LinkedIn: https://www.linkedin.com/in/linet-rono-b32130277/
-- Email: mukamihrono@gmail.com
+- LinkedIn:[my linkdn](https://www.linkedin.com/in/linet-rono-b32130277/)
+- Email: [my email](mukamihrono@gmail.com)
 
 ## Reuse
 This project is open for learning purposes —  
